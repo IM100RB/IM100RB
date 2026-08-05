@@ -1,12 +1,18 @@
 # 💫 About Me:
+
 Hi, I'm **Sourabh Rawat**, a passionate **Full-Stack & Automation Developer**.  
 I specialize in building scalable, modern web applications with a focus on performance, clean architecture, end-to-end automation, and great user experience. I am highly proficient in web development technologies and capable of working across all major automation, testing, CMS platforms, and CI/CD tools.
+
 ---
+
 ## 🌐 Socials:
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sourabh10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-rawat-314886225?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IM100RB)
+
 ---
+
 ## 💻 Tech Stack:
 ### 🚀 Web Development & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,4 +58,5 @@ I specialize in building scalable, modern web applications with a focus on perfo
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ---
